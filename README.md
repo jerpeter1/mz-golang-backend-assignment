@@ -60,7 +60,7 @@ The message body can be relayed to one or multiple receivers.
 ## Running and building
 
 The project already includes the necessary infrastructure for building and running the hub.
-It has a Makefile with targets for building and testing both client and server, you should be able to run the server and multiple clients in order to exercise the functionality outlined here.
+There is a Makefile with targets for building and testing both client and server; you should be able to run the server and multiple clients in order to exercise the functionality outlined here.
 
 ## Testing
 
