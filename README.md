@@ -66,4 +66,4 @@ It has Makefile with targets for building and testing both client and server.
 
 The project contains integration and benchmark tests for the hub (including both client and server), 
 so make sure your implementation is compatible and the tests pass without making major changes to them.
-Please add unit tests for you implementation, without them the assignment will be rejected.
+
